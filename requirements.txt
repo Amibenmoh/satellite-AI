@@ -3,6 +3,4 @@ pandas
 numpy
 Pillow
 mysql-connector-python
-tensorflow
-tensorflow-io-gcs-filesystem
-keras
+tensorflow-cpu==2.18.0
