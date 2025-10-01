@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+Pillow
+mysql-connector-python
+tensorflow
+tensorflow-io-gcs-filesystem
+keras
